@@ -1,0 +1,15 @@
+Comport,COM9
+Baudrate,115200
+Databit,8
+Parity,None
+Stopbit,One
+NumberColor,Red
+TextColor1,
+TextColor2,
+TextColor3,
+TextColor4,
+TextColor5,
+TextColor6,
+TextColor7,
+TextColor8,
+DispScroll,False
